@@ -587,10 +587,11 @@
             :pagination="{ dynamicBullets: true }"
             :grabCursor="true"
           >
+
             <swiper-slide class="partners__container">
-              <a target="_blank" href="https://a2a-digital.com/">
+              <a target="_blank" href="https://www.future-s.com/">
                 <img
-                  src="../../assets/partnerships/a2a.png"
+                  src="../../assets/partnerships/FS.png"
                   class="partners__img"
                   alt=""
                 />
@@ -616,6 +617,17 @@
                 />
               </a>
             </swiper-slide>
+
+            <swiper-slide class="partners__container">
+              <a target="_blank" href="https://a2a-digital.com/">
+                <img
+                  src="../../assets/partnerships/a2a.png"
+                  class="partners__img"
+                  alt=""
+                />
+              </a>
+            </swiper-slide>
+
           </swiper>
         </div>
       </div>
